@@ -53,10 +53,10 @@ The repository includes code, notebooks, outputs, and a detailed report for each
 - Identified above-average tweet days and top 10 hotspots.  
 
 ### Code Reference
-- `task1/task1.py` → main PySpark job  
-- `task1/task1_Q3.ipynb` → Geospatial scatter plot  
-- `task1/task1_Q4.ipynb` → Time-of-day analysis  
-- `task1/task1_Q5.ipynb` → Weekday aggregation  
+- `task1/Code/task1.py` → main PySpark job  
+- `task1/Code/task1_Q3.ipynb` → Geospatial scatter plot  
+- `task1/Code/task1_Q4.ipynb` → Time-of-day analysis  
+- `task1/Code/task1_Q5.ipynb` → Weekday aggregation  
 ---
 
 ## Task 2: MovieLens Ratings Data Analysis
@@ -81,12 +81,12 @@ The repository includes code, notebooks, outputs, and a detailed report for each
   - Users: 128k Frequent Raters vs. 202k Infrequent Raters.  
 
 ### Code Reference
-- `task2/task2.py` → full PySpark job  
-- `task2/task2_Q3.ipynb` → Rating categories  
-- `task2/task2_Q4.ipynb` → Seasonal trends  
-- `task2/task2_Q5.ipynb` → Ratings by genre  
-- `task2/task2_Q6.ipynb` → Yearly distribution  
-- `task2/task2_Q8.ipynb` → User activity  
+- `task2/Code/task2.py` → full PySpark job  
+- `task2/Code/task2_Q3.ipynb` → Rating categories  
+- `task2/Code/task2_Q4.ipynb` → Seasonal trends  
+- `task2/Code/task2_Q5.ipynb` → Ratings by genre  
+- `task2/Code/task2_Q6.ipynb` → Yearly distribution  
+- `task2/Code/task2_Q8.ipynb` → User activity  
 ---
 
 ## Task 3: Chicago Taxi Trips Data Analysis
@@ -111,9 +111,9 @@ The repository includes code, notebooks, outputs, and a detailed report for each
   - Longer trips cost more (distance & duration).  
 
 ### Code Reference
-- `task3/task3.py` → full PySpark + GraphFrames pipeline  
-- `task3/task3_Q6.ipynb` → PageRank (unweighted/weighted)  
-- `task3/task3_Q7.ipynb` → Fare analysis  
+- `task3/Code/task3.py` → full PySpark + GraphFrames pipeline  
+- `task3/Code/task3_Q6.ipynb` → PageRank (unweighted/weighted)  
+- `task3/Code/task3_Q7.ipynb` → Fare analysis  
 ---
 
 ## Task 4: HDFS Logs Streaming Analysis
@@ -137,7 +137,7 @@ The repository includes code, notebooks, outputs, and a detailed report for each
   - Q6: Counted INFO-level block events → top active hosts.  
 
 ### Code Reference
-- `task4/task4.py` → Streaming pipeline with Q1–Q6 queries  
+- `task4/Code/task4.py` → Streaming pipeline with Q1–Q6 queries  
 ---
 
 ## Key Takeaways
